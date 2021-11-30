@@ -1,4 +1,4 @@
-### Leveraging Advanced Data Mining Algorithms to Recommend Source Code Changes
+## Leveraging Advanced Data Mining Algorithms to Recommend Source Code Changes
 
 <!--
 **msr2022/MSR2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
